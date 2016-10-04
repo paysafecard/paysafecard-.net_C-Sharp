@@ -1,0 +1,10 @@
+\\mac\home\documents\visual studio 2015\Projects\PaysafecardRefund\PaysafecardRefund\bin\Debug\PaysafecardRefund.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\PaysafecardRefund\PaysafecardRefund\bin\Debug\PaysafecardRefund.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\PaysafecardRefund\PaysafecardRefund\bin\Debug\PaysafecardRefund.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\PaysafecardRefund\PaysafecardRefund\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\PaysafecardRefund\PaysafecardRefund\bin\Debug\RestSharp.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\PaysafecardRefund\PaysafecardRefund\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\PaysafecardRefund\PaysafecardRefund\bin\Debug\RestSharp.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\PaysafecardRefund\PaysafecardRefund\obj\Debug\PaysafecardRefund.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\PaysafecardRefund\PaysafecardRefund\obj\Debug\PaysafecardRefund.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\PaysafecardRefund\PaysafecardRefund\obj\Debug\PaysafecardRefund.pdb
