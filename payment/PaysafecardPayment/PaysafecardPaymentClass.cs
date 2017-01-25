@@ -210,7 +210,7 @@ namespace PaysafecardPayment
                 var request = new RestRequest(urlparam, RestSharp.Method.GET);
                 //Prepare HTTP Header
                 request.AddHeader("http.keepAlive", "false");
-                request.AddHeader("Authorization", "Basic cHNjX3hsMEV3ZkxYLTk2YkVranktbVhZRDdTRnZpeXZhcUE=");
+                request.AddHeader("Authorization", "Basic " + Convert.ToBase64String(Encoding.UTF8.GetBytes(this.psc_key)));
                 request.AddHeader("Content-Type", "application/json");
                 request.AddHeader("User-Agent", USER_AGENT);
                 request.AddHeader("Accept", "*/*");
@@ -252,7 +252,7 @@ namespace PaysafecardPayment
                 var request = new RestRequest(url_param, RestSharp.Method.POST);
 
                 request.AddHeader("http.keepAlive", "false");
-                request.AddHeader("Authorization", "Basic cHNjX3hsMEV3ZkxYLTk2YkVranktbVhZRDdTRnZpeXZhcUE=");
+                request.AddHeader("Authorization", "Basic " + Convert.ToBase64String(Encoding.UTF8.GetBytes(this.psc_key)));
                 request.AddHeader("Content-Type", "application/json");
                 request.AddHeader("User-Agent", USER_AGENT);
                 request.AddHeader("Accept", "*/*");
